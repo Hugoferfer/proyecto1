@@ -1,6 +1,6 @@
 package pueba1;
 
-public class Principal {
+public class Principal2 {
 
 	public static void main(String[] args) {
 		//comentario de mensaje
